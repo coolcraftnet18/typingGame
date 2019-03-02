@@ -1,0 +1,22 @@
+body
+{
+	margin-top:6%;
+	text-align: center;
+	background-color:FloralWhite ;
+}
+
+#text
+{
+  border:solid; 
+  width:750px;
+  height: 300px;
+  padding:3%;
+  margin: auto;
+  overflow: hidden;
+  background-color:White;
+}
+
+#title
+{
+  font-size: 200%;
+}
