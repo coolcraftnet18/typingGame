@@ -7,7 +7,7 @@ function pick(passage)
 {
 	if (passage == 0)
 	{
-		STRING = aliceinwonderland;
+		STRING = aabbcc;
 		sentence = STRING.split(" ");
 		wpmString = STRING.split("");
 		textBox.innerHTML = STRING;
