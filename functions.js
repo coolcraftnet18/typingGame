@@ -3,7 +3,7 @@
 	userInput = document.getElementById("input");
 	Wpm = document.getElementById("wpm");
 	textBox = document.getElementById("text");
-	text0=document.getElementById("AliceInWonderland");
+	text0=document.getElementById("aabbcc");
 	text1=document.getElementById("Torque");
 	text2=document.getElementById("WW1");
 	text3=document.getElementById("NASAJourneyToMars");
